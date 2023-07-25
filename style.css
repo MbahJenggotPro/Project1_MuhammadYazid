@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+header{
+    color: green;
+    margin-top: 2cm;
+    text-align: center;
+}
+p{
+    color: green;
+    margin-left: 4cm;
+    margin-top: 2cm;
+    font-size: 30;
+}
